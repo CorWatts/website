@@ -6,7 +6,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
 title = "Corey Watts"
 author = "Corey Watts"
-copyright = "Copyright © 2020, Corey Watts."
+copyright = "Copyright © 2021, Corey Watts."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
